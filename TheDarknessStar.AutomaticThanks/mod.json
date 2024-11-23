@@ -1,0 +1,6 @@
+{
+	"Name": "AutomaticThanks",
+	"Description": "隊友給我們的泰坦X了一顆電池自動發送謝謝",
+	"LoadPriority": 0,
+	"Version": "1.2.3"
+}
